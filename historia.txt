@@ -6,4 +6,8 @@ Master 1
 
 Master 2
 
+<<<<<<< HEAD
 Master 3
+=======
+Experimento 1
+>>>>>>> 35ced69... exp 1
